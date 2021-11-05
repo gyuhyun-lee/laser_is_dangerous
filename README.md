@@ -17,7 +17,7 @@ Your build files will be located at the build folder, outside the laser_is_dange
 
 # Features
 - Custom Windows porting, without using libraries such as GLFW
-- Custom Asset Builder & Loader, which loades BMP & WAV files and pack them into a single asset file
+- Multithreaded BMP & WAV file loader
 - SIMD based software renderer and OpenGL
 - Custom 2D physics engine
 - Runtime code change
