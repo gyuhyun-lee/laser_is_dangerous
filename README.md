@@ -21,3 +21,12 @@ Your build files will be located at the build folder, outside the laser_is_dange
 - SIMD based software renderer and OpenGL
 - Custom 2D physics engine
 - Runtime code change
+
+# Samples
+![Title](https://github.com/meka-lopo/laser_is_dangerous/blob/b407e7eb4edb21a14311721aadc46e72f70269a4/misc/sample_images/title.jpg)
+![Sample 1](https://github.com/meka-lopo/laser_is_dangerous/blob/b407e7eb4edb21a14311721aadc46e72f70269a4/misc/sample_images/1.jpg)
+![Sample 2](ihttps://github.com/meka-lopo/laser_is_dangerous/blob/b407e7eb4edb21a14311721aadc46e72f70269a4/misc/sample_images/2.jpg)
+![Sample 3](https://github.com/meka-lopo/laser_is_dangerous/blob/b407e7eb4edb21a14311721aadc46e72f70269a4/misc/sample_images/3.jpg)
+![Sample 4](https://github.com/meka-lopo/laser_is_dangerous/blob/b407e7eb4edb21a14311721aadc46e72f70269a4/misc/sample_images/4.jpg)
+
+
